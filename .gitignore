@@ -1,4 +1,5 @@
 .pyu
 env
 .vscode
+.secrets
 __pycache__
