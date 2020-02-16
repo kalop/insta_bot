@@ -2,4 +2,5 @@
 env
 .vscode
 secrets.py
+hashtags.py
 __pycache__
